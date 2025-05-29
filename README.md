@@ -1,18 +1,5 @@
-Thanks for sharing the screenshot! Based on what I see, the current README suffers from:
 
-* Visually cluttered and emoji-heavy Table of Contents
-* Inconsistent markdown formatting (e.g., spacing, heading levels)
-* Lack of hierarchy and separation between sections
-* Links and symbols making it hard to quickly skim
-
----
-
-Here’s a **cleaned-up and highly readable version** of your README that preserves full functionality while improving visual design, professionalism, and accessibility:
-
----
-
-````markdown
-# 🧠 TaskForge - Distributed Task Management Platform
+ TaskForge - Distributed Task Management Platform
 
 A scalable, secure, real-time task management platform for collaborative teams. Built with a microservice architecture using React.js, Node.js, Kafka, Redis, and MongoDB, TaskForge enables live task tracking, analytics, and cloud-native deployment with Docker, Terraform, and CI/CD pipelines.
 
