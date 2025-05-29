@@ -3,10 +3,6 @@
 
 A scalable, secure, real-time task management platform for collaborative teams. Built with a microservice architecture using React.js, Node.js, Kafka, Redis, and MongoDB, TaskForge enables live task tracking, analytics, and cloud-native deployment with Docker, Terraform, and CI/CD pipelines.
 
-![TaskForge Banner](https://via.placeholder.com/1200x400?text=TaskForge+Distributed+Task+Manager)
-
----
-
 ## 📚 Table of Contents
 
 - [Overview](#overview)
@@ -248,9 +244,5 @@ Contributions are welcome! To contribute:
 
 ## 📄 License
 
-MIT License © 2024–2025 \[Your Name]
+MIT License © 2024–2025 \ Manav Anandani
 
-
-
-I'm happy to help generate those too.
-```
