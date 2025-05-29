@@ -1,5 +1,5 @@
 
- TaskForge - Distributed Task Management Platform
+ # TaskForge - Distributed Task Management Platform
 
 A scalable, secure, real-time task management platform for collaborative teams. Built with a microservice architecture using React.js, Node.js, Kafka, Redis, and MongoDB, TaskForge enables live task tracking, analytics, and cloud-native deployment with Docker, Terraform, and CI/CD pipelines.
 
@@ -250,17 +250,7 @@ Contributions are welcome! To contribute:
 
 MIT License © 2024–2025 \[Your Name]
 
-```
 
----
-
-✅ This version is **aesthetically balanced**, **Markdown compliant**, and **easy to skim on GitHub**.
-
-Let me know if you’d like:
-- The `.env.example` file
-- A matching `docker-compose.yml`
-- Terraform starter template  
-- Folder stubs (`/client/src/pages`, `/server/routes`, etc.)
 
 I'm happy to help generate those too.
 ```
