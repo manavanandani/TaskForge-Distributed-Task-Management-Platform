@@ -296,12 +296,4 @@ We welcome contributions to improve TaskForge!
 
 ## 📄 License
 
-MIT License © 2024–2025 \[Your Name]
-
-```
-
----
-
-✅ This is now ready to **copy and paste into your GitHub repository’s README.md** file.  
-If you want accompanying files like `.env.example`, `docker-compose.yml`, or `terraform/main.tf`, let me know!
-```
+MIT License © 2024–2025 \Manav Anandani
